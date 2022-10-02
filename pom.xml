@@ -55,10 +55,7 @@
                     </execution>
 
                     <execution>
-                        <id>check</id>
-                        <goals>
-                            <goal>check</goal>
-                        </goals>
+
                         <configuration>
                             <rules>
                                 <rule>
